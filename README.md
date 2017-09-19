@@ -1,11 +1,11 @@
 # Palindrome
 
-Ecrire une fonction qui teste si une chaîne est un palindrome. Un palindrome est un mot ou une phrase que l’on peut lire dans les deux sens.
+Ecrire une méthode qui teste si une chaîne est un palindrome.
+Un palindrome est un mot ou une phrase que l’on peut lire dans les deux sens.
 
 Exemples :
-	Kayak
-	Abba
-	Ésope reste ici et se repose
+	KAYAK
+	ABBA
 
 Rappel des commandes junit :
 
