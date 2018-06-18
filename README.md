@@ -7,6 +7,8 @@ Exemples :
 	KAYAK
 	ABBA
 
+Bonus : relever une IllegalArgumentException "Argurment is null"
+
 Rappel des commandes junit :
 
     javac -cp .:junit-4.12.jar PalindromeTest.java
